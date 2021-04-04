@@ -26,7 +26,8 @@ The portfolio was built in a responsive fashion able to adapt to differents view
 ![screenshot](assets/webpage.jpg)
 
 ##### Link
-
+https://alcharl88.github.io/Built-a-Portfolio/
 
 ##### Credit
 Alain Tagne
+https://github.com/AlCharl88
